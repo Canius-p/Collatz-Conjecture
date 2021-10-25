@@ -1,7 +1,7 @@
 
 # Collatz-Conjecture
 
-This is a famous mathematical problem of 3x+1
+This is a famous mathematical problem of 3n+1
 
 
 ![Logo](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/collatz-1568382224.jpg)
