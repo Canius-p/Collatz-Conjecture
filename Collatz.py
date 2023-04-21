@@ -12,10 +12,10 @@ Num = input("Enter your value: ")
 try:
     val = int(Num)
     if val < 0 :
-        print("Error: Please enter a positive integer only")
+        print("Error: Please enter a positive Integer")
         exit(1)
 except ValueError:
-    print("Error: Please enter a positive integer only")
+    print("Error: Please enter a Positive integer")
     exit(1)
 
 Collatz(int(Num))
